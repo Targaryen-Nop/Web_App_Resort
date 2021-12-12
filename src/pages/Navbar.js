@@ -20,7 +20,7 @@ const NavbarPage = () => {
                 menuVariant="dark"
                 className='mx-3'
               >
-                <NavDropdown.Item href="#action/3.1">
+                <NavDropdown.Item href="/history">
                   ประวัติหน่วยงาน
                 </NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">
